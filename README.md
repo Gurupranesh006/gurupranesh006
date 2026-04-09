@@ -1,50 +1,86 @@
-# 👋 Hi, I'm Gurupranesh! <img src="https://media.giphy.com/media/hvRJCLzdzTCW4/giphy.gif" width="30px">
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=39FF14&width=435&lines=Security+Researcher;Python+Developer;Open+Source+Enthusiast;Automation+Expert" alt="Typing SVG" />
+
+# ⚡ GURUPRANESH
+
+```bash
+> Offensive Security Engineer
+> Red Team Operations | Exploitation | AI-Driven Defense
+```
+
 </div>
 
 ---
 
-### 🚀 About Me
-- 🛡️ Passionate about **Cybersecurity** and **Recon Automation**.
-- 🐍 Expert in **Python** and **Shell Scripting**.
-- ⚡ Creator of **[blitz](https://github.com/Gurupranesh006/blitz)**, a high-speed recon engine.
-- 📫 How to reach me: [Your Email/LinkedIn Link]
+## 🕶 PROFILE
+
+Security-focused developer specializing in offensive security research and intelligent defensive systems.
+
+Building. Breaking. Hardening.
+
+- Web Application Exploitation  
+- Active Directory Attack & Defense  
+- Privilege Escalation Research  
+- AI-based Intrusion Detection Systems  
+- Network & Infrastructure Security  
 
 ---
 
-### 📊 My GitHub Stats (Auto-Updating)
+## ⚔ TECH ARSENAL
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gurupranesh006&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Gurupranesh's Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurupranesh006&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
-</div>
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-006400?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</div>
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ffcc)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00ffcc)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00ffcc)
+![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge)
 
 ---
 
-### 🐍 Contribution Activity
+### 🛡 Security Stack
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Gurupranesh006/Gurupranesh006/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00ffcc)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=00ffcc)
+![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00ffcc)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge)
+![Hydra](https://img.shields.io/badge/Hydra-000000?style=for-the-badge)
+![John the Ripper](https://img.shields.io/badge/John_The_Ripper-000000?style=for-the-badge)
+![Gobuster](https://img.shields.io/badge/Gobuster-000000?style=for-the-badge)
+![Enum4linux](https://img.shields.io/badge/Enum4linux-000000?style=for-the-badge)
+![BloodHound](https://img.shields.io/badge/BloodHound-000000?style=for-the-badge)
+![Mimikatz](https://img.shields.io/badge/Mimikatz-000000?style=for-the-badge)
+![Netcat](https://img.shields.io/badge/Netcat-000000?style=for-the-badge)
+![SQLMap](https://img.shields.io/badge/SQLMap-000000?style=for-the-badge)
+![Responder](https://img.shields.io/badge/Responder-000000?style=for-the-badge)
+
+---
+
+## 📊 SYSTEM METRICS
+
+<p align="center">
+  <img src="https://github-readme-stats-ochre-nine-vho5tgz2lh.vercel.app/api?username=gurupranesh006&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=00ffcc&icon_color=00ffcc&text_color=ffffff" height="170"/>
+  
+  <img src="https://github-readme-stats-ochre-nine-vho5tgz2lh.vercel.app/api/top-langs/?username=gurupranesh006&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=00ffcc&text_color=ffffff" height="170"/>
+</p>
+
+---
+
+## 🌐 CONNECT
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gurupranesh-j-kulkarni-327708362/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ffcc"/>
+  </a>
+</p>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gurupranesh006&color=green&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+
+```bash
+root@velaryx:~# exploit
+root@velaryx:~# escalate
+root@velaryx:~# dominate
+```
+
 </div>
